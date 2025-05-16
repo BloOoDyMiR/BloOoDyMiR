@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BloOoDyMiR
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Django and Python ML
+- 👀 I’m interested in Machine Learning and Deep Learning
 - 📫 How to reach me : instagram : _mohamadtaqavi  /   email : javadt562@gmail.com
 
 <!---
